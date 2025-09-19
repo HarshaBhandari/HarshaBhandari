@@ -1,28 +1,146 @@
-<h1 align="center">Hi 👋, I'm Harsha Sandeep Bhandari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🌟 Hey there, I'm Harsha Sandeep Bhandari! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshabhandari&label=Profile%20views&color=0e75b6&style=flat" alt="harshabhandari" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Problem+Solver;Building+Digital+Experiences;Code+%7C+Create+%7C+Innovate;Hello+World+is+Universal! 🌍" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshabhandari" alt="harshabhandari" /></a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation">
+</div>
 
-- 🌱 I’m currently learning **Web Development, DSA**
+## 🚀 About Me
 
-- 💬 Ask me about **Frontend, Git, Github**
+```javascript
+const harsha = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "Data Structures & Algorithms"],
+    funFact: "I believe 'Hello World' is the universal language 💡",
+    askMeAbout: ["Frontend", "Git", "GitHub", "Problem Solving"],
+    currentlyLearning: ["Advanced JavaScript", "React Ecosystem", "System Design"],
+    goal: "Building amazing user experiences, one commit at a time"
+};
+```
 
-- 📫 How to reach me **harshabhandari16@gmail.com**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshabhandari&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cf_eq7NIcnBQpIhCntsB4fzuwDy0XEHA/view?usp=drive_link](https://drive.google.com/file/d/1cf_eq7NIcnBQpIhCntsB4fzuwDy0XEHA/view?usp=drive_link)
+## 🛠️ Tech Arsenal
 
-- ⚡ Fun fact **💡 I believe “Hello World” is the universal language.**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsha bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha bhandari" height="30" width="40" /></a>
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshabhandari&show_icons=true&locale=en&layout=compact" alt="harshabhandari" /></p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshabhandari&show_icons=true&locale=en" alt="harshabhandari" /></p>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshabhandari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshabhandari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshabhandari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshabhandari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+## 💻 This Week I Spent My Time On
+
+```text
+💼 Projects          ████████████████████░   85.2%
+📚 Learning          ██████░░░░░░░░░░░░░░░   14.8%
+```
+
+## 🎯 Current Goals
+
+- [ ] Master Advanced JavaScript Concepts
+- [ ] Build 5 Full-Stack Projects
+- [ ] Contribute to Open Source Projects
+- [ ] Learn System Design Fundamentals
+- [ ] Master Data Structures & Algorithms
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsha-bhandari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshabhandari16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1cf_eq7NIcnBQpIhCntsB4fzuwDy0XEHA/view?usp=drive_link)
+
+</div>
+
+## 🎨 Fun Easter Eggs
+
+<details>
+<summary>🔍 Click to reveal the secret developer truth!</summary>
+
+```
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│  // TODO: Fix this later                            │
+│  // This is temporary code                          │
+│  // I'll clean this up tomorrow                     │
+│  // Famous last words of every developer 😅         │
+│                                                     │
+│  if (code === "working") {                          │
+│      console.log("Don't touch it! 🙅‍♂️");              │
+│  }                                                  │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
+```
+
+</details>
+
+<details>
+<summary>🎭 My Coding Philosophy</summary>
+
+```javascript
+const codingPhilosophy = {
+    motto: "Hello World is the universal language 🌍",
+    rules: [
+        "Write code that tells a story",
+        "Comment like you're helping your future self",
+        "Debug with patience, code with passion",
+        "Every bug is a learning opportunity disguised as frustration"
+    ],
+    coffeeLevel: "Dangerously High ☕",
+    debuggingSkill: "Professional Rubber Duck Conversationalist 🦆"
+};
+```
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  <img src="https://komarev.com/ghpvc/?username=harshabhandari&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+  
+  ⭐ **From [harshabhandari](https://github.com/harshabhandari)** - *Making the web a better place, one commit at a time!*
+</div>
